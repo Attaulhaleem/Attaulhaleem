@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me
-I am an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" width="30" align="center">from Pakistan.
+I'm an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" width="30" align="center">from Pakistan...
 
 - :computer: Casually writing code as sacrifice to my inner demons.
 
@@ -26,7 +26,7 @@ I am an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9
 
 - :chess_pawn: Enjoying the occasional chess match with a worthy opponent.
 
-- :incoming_envelope: Contact me at <a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a>
+- :incoming_envelope: Hit me up (or don't) <a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a>
 
 ---
 
