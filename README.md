@@ -52,7 +52,7 @@ I am an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9
 
 - :chess_pawn: Enjoying the occasional chess match with a worthy opponent.
 
-- :incoming_envelope: Contact me at [![Linkedin Badge](https://img.shields.io/badge/-attaulhaleem-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/attaulhaleem)
+- :incoming_envelope: Contact me at <a href="https://linkedin.com/in/attaulhaleem" align="center"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logoColor=white" align="center"/></a>
 
 ---
 
