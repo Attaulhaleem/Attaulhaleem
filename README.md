@@ -4,8 +4,7 @@
 </h1>
 
 <h2>
-  Welcome to my Github <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30px"/>
-  This is an example of recursion...
+  Welcome to my Github
   <a href="https://github.com/Attaulhaleem">
     <img src="https://img.shields.io/badge/Github-blue?logo=github&logoColor=white" alt="Github Badge"/>
   </a>
