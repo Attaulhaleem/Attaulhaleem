@@ -11,10 +11,6 @@
   </a>
 </h2>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/attaulhaleem/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,8 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=Attaulhaleem&color=blue" alt="View Counter"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
