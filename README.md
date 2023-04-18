@@ -44,15 +44,15 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am an Electronics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am an Electronics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 💻 Casually write code as a sacrifice to my inner demons.
 
-- :seedling: Exploring Technical Content Writing.
+- 🎥 I watch movies to escape the monotony of reality.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ♟️ I enjoy a good chess match with a worthy opponent.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-attaulhaleem-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/attaulhaleem)
+- 📫 Contact me at [![Linkedin Badge](https://img.shields.io/badge/-attaulhaleem-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/attaulhaleem)
 
 ---
 
