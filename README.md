@@ -1,6 +1,6 @@
 <h1>
   Hello, World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> :earth_asia:
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/ align="center"> :earth_asia:
 </h1>
 
 <h2>
