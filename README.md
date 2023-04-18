@@ -66,6 +66,7 @@ I am an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9
 ### :fire: Stats
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Attaulhaleem&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Attaulhaleem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Attaulhaleem&theme=dark&background=000000" title="Github Streak" alt="Github Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attaulhaleem&layout=compact&theme=vision-friendly-dark" title="Top Languages" alt="Top Languages">
 </div>
+
