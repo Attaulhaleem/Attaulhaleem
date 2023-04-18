@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me
-I am an Electronics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :pakistan:.
+I am an Electronics Engineer <img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" width="30"> from Pakistan :pakistan:.
 
 - 💻 Casually write code as a sacrifice to my inner demons.
 
