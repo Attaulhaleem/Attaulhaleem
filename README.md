@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/attaulhaleem/">
+  <a href="https://www.linkedin.com/in/attaulhaleem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
