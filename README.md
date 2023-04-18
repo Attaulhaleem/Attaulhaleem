@@ -21,4 +21,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/attaulhaleem/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Attaulhaleem&style=flat-square&color=blue" alt=""/>
 </div>
