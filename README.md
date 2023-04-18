@@ -4,17 +4,18 @@
 </h1>
 
 <h2>
-  Welcome to my Github
+  Welcome to my Github!
   <a href="https://github.com/Attaulhaleem">
-    <img src="https://img.shields.io/badge/Github-blue?logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/-Attaulhaleem-blue?logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Attaulhaleem&color=blue" alt="View Counter"/>
 </h2>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/attaulhaleem/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Attaulhaleem&color=blue" alt="View Counter"/>
+  
 </div>
 
 <div id="header" align="center">
