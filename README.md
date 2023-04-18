@@ -48,9 +48,9 @@ I am an Electronics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - 💻 Casually write code as a sacrifice to my inner demons.
 
-- 🎥 I watch movies to escape the monotony of reality.
+- 📺 I watch movies to escape the monotony of reality.
 
-- ♟️ I enjoy a good chess match with a worthy opponent.
+- ♟ I enjoy a good chess match with a worthy opponent.
 
 - 📫 Contact me at [![Linkedin Badge](https://img.shields.io/badge/-attaulhaleem-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/attaulhaleem)
 
