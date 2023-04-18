@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 I am an Electronics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :pakistan:.
 
 - 💻 Casually write code as a sacrifice to my inner demons.
@@ -56,7 +56,7 @@ I am an Electronics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### ⌨️ Languages
+### :keyboard: Languages
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Icon" width="40" height="40"/>&nbsp;
@@ -68,7 +68,7 @@ I am an Electronics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### 🛠️ Tools
+### :hammer_and_wrench: Tools
   
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode Icon" width="40" height="40"/>&nbsp;
