@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>
   Welcome to my Github!
-  <img src="D:\Downloads\giphy-unscreen.gif" width="30px"/>
+  <img src="https://img.shields.io/badge/Github-blue?logo=github&logoColor=white" alt="Github Badge"/>
 </h2>
 
 <div id="header" align="center">
