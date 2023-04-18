@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>
   Welcome to my Github!
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"/>
+  <img src="D:\Downloads\giphy-unscreen.gif" width="30px"/>
 </h2>
 
 <div id="header" align="center">
