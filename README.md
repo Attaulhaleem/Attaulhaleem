@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me
-I am an Electronics Engineer <img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" width="30" align="center"> from :pakistan:.
+I am an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" width="30" align="center">from Pakistan.
 
-- 💻 Casually write code as a sacrifice to my inner demons.
+- :computer: Casually writing code as sacrifice to my inner demons.
 
-- 📺 I watch movies to escape the monotony of reality.
+- :film_strip: Watching movies to escape the monotony of reality.
 
-- ♟ I enjoy a good chess match with a worthy opponent.
+- :chess_pawn: Enjoying the occasional chess match with a worthy opponent.
 
 - 📫 Contact me at [![Linkedin Badge](https://img.shields.io/badge/-attaulhaleem-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/attaulhaleem)
 
