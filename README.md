@@ -26,7 +26,7 @@ I'm an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9g
 
 - :chess_pawn: Enjoying the occasional chess match with a worthy opponent.
 
-:incoming_envelope: Hit me up (or don't) <a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a> <a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-haleem.attaul@gmail.com-red?logo=gmail&logoColor=white" align="center"/></a>
+:incoming_envelope: Hit me up <a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a> <a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-haleem.attaul@gmail.com-red?logo=gmail&logoColor=white" align="center"/></a>
 
 ---
 
