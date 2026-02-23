@@ -14,12 +14,12 @@
 > Love tinkering with hardware and obsessed with writing clean code.
 > Interested in embedded systems, software design, AI/ML, and AR/VR.
 
-## 📨 Contact
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFlbnBjcGw2OXpoN3o0b3VtOXV2dDNvcTkwZTJkeGlzejRnNWVvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPKw8QCM4SR53s42xN/giphy.gif" height="30" width="30" align="center" /> Contact
 
 <a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a>
 <a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-haleem.attaul@gmail.com-red?logo=gmail&logoColor=white" align="center"/></a>
 
-## ⌨️ Languages
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjhlMWwxb2l5a2djcWhka2I2ZzZwdzN4bDRzemVldWZvMHZicmw3aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xDRd6KNG0RogXmzFUl/giphy.gif" height="30" width="30" align="center" /> Languages
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Icon" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX Icon" width="40" height="40"/>&nbsp;
 </div>
 
-## 🛠️ Tools
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Zlczg1a2szNmRjcmgwejdzeXlpd3FuajhiMTVoN3RicDMybnMybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" height="30" width="30" align="center" /> Tools
   
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode Icon" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot Icon" width="40" height="40"/>&nbsp;
 </div>
 
-## 🔥 Stats
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJvODNmaWR4bDE3Z290dDR3bHp0NWg4bGd1eGxpY3o0MHg2cHR6diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" height="30" width="30" align="center" /> Stats
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Attaulhaleem&theme=dark&background=000000" title="Github Streak" alt="Github Streak">
