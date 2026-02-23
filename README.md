@@ -1,36 +1,25 @@
 <h1>
-  Hello, World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/ align="center"> :earth_asia:
+  Hi, I'm Atta
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=Attaulhaleem&color=blue" alt="View Counter" align="right" />
+  <a href="https://github.com/Attaulhaleem">
+    <img src="https://img.shields.io/badge/-Attaulhaleem-blue?logo=github&logoColor=white" alt="Github Badge" align="right" />
+  </a>
 </h1>
 
-<h2>
-  Welcome to my Github!
-  <a href="https://github.com/Attaulhaleem">
-    <img src="https://img.shields.io/badge/-Attaulhaleem-blue?logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Attaulhaleem&color=blue" alt="View Counter"/>
-</h2>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlOXcwd2ltNTA0Mmp4aG1hNWVuN3B5NHZkdWIzZXlsODVha281aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0tApH4gEVQcgqw9cn0/giphy.gif" height="30" width="30" align="center" /> Paris, France &nbsp; | <img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" height="30" width="30" align="center" /> Electronics Engineer &nbsp; | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZvNnB6b3pmOTBidmFpMXJsMTl0bTlpdDA2ZmdhdmVxMGRjNndqMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" height="30" width="30" align="center" /> Obsessive Coder
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="75%"/>
-</div>
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
----
+> Love tinkering with hardware and obsessed with writing clean code.
+> Interested in embedded systems, software design, AI/ML, and AR/VR.
 
-### :man_technologist: About Me
-I'm an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" width="30" align="center">from Pakistan...
+## 📨 Contact
 
-- :computer: Casually writing code as sacrifice to my inner demons.
+<a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a>
+<a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-haleem.attaul@gmail.com-red?logo=gmail&logoColor=white" align="center"/></a>
 
-- :film_strip: Watching movies to escape the monotony of reality.
-
-- :chess_pawn: Enjoying the occasional chess match with a worthy opponent.
-
-:incoming_envelope: Hit me up <a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a> <a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-haleem.attaul@gmail.com-red?logo=gmail&logoColor=white" align="center"/></a>
-
----
-
-### :keyboard: Languages
+## ⌨️ Languages
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Icon" width="40" height="40"/>&nbsp;
@@ -41,9 +30,7 @@ I'm an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9g
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX Icon" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :hammer_and_wrench: Tools
+## 🛠️ Tools
   
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode Icon" width="40" height="40"/>&nbsp;
@@ -56,12 +43,9 @@ I'm an Electronics Engineer<img src="https://media.giphy.com/media/NX3GQXkss6J9g
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot Icon" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :fire: Stats
+## 🔥 Stats
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Attaulhaleem&theme=dark&background=000000" title="Github Streak" alt="Github Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attaulhaleem&layout=compact&theme=vision-friendly-dark" title="Top Languages" alt="Top Languages">
 </div>
 
