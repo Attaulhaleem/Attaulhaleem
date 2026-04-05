@@ -7,17 +7,22 @@
   </a>
 </h1>
 
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlOXcwd2ltNTA0Mmp4aG1hNWVuN3B5NHZkdWIzZXlsODVha281aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0tApH4gEVQcgqw9cn0/giphy.gif" height="30" width="30" align="center" /> Paris, France &nbsp; | <img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" height="30" width="30" align="center" /> Electronics Engineer &nbsp; | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZvNnB6b3pmOTBidmFpMXJsMTl0bTlpdDA2ZmdhdmVxMGRjNndqMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" height="30" width="30" align="center" /> Obsessive Coder
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlOXcwd2ltNTA0Mmp4aG1hNWVuN3B5NHZkdWIzZXlsODVha281aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0tApH4gEVQcgqw9cn0/giphy.gif" height="30" width="30" align="center" /> Paris, France &nbsp; | <img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" height="30" width="30" align="center" /> Electrical Engineer &nbsp; | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZvNnB6b3pmOTBidmFpMXJsMTl0bTlpdDA2ZmdhdmVxMGRjNndqMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" height="30" width="30" align="center" /> Software Developer
 
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim&logoColor=019733)
+![Godot](https://img.shields.io/badge/-Godot-000000?style=flat-square&logo=godotengine&logoColor=478CBF)
 
 > Love tinkering with hardware and obsessed with writing clean code.
-> Interested in embedded systems, software design, AI/ML, and AR/VR.
+> Interested in embedded systems, game design, AI/ML, and AR/VR.
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFlbnBjcGw2OXpoN3o0b3VtOXV2dDNvcTkwZTJkeGlzejRnNWVvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPKw8QCM4SR53s42xN/giphy.gif" height="30" width="30" align="center" /> Contact
 
-<a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-attaulhaleem-blue?logo=linkedin&logoColor=white" align="center"/></a>
-<a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-haleem.attaul@gmail.com-red?logo=gmail&logoColor=white" align="center"/></a>
+<a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" align="center"/></a>
+<a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" align="center"/></a>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjhlMWwxb2l5a2djcWhka2I2ZzZwdzN4bDRzemVldWZvMHZicmw3aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xDRd6KNG0RogXmzFUl/giphy.gif" height="30" width="30" align="center" /> Languages
 
@@ -25,9 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Icon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ Icon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX Icon" width="40" height="40"/>&nbsp;
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Zlczg1a2szNmRjcmgwejdzeXlpd3FuajhiMTVoN3RicDMybnMybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" height="30" width="30" align="center" /> Tools
