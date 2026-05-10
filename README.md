@@ -2,50 +2,57 @@
   Hi, I'm Atta
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center" />
   <img src="https://komarev.com/ghpvc/?username=Attaulhaleem&color=blue" alt="View Counter" align="right" />
-  <a href="https://github.com/Attaulhaleem">
-    <img src="https://img.shields.io/badge/-Attaulhaleem-blue?logo=github&logoColor=white" alt="Github Badge" align="right" />
-  </a>
 </h1>
 
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlOXcwd2ltNTA0Mmp4aG1hNWVuN3B5NHZkdWIzZXlsODVha281aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0tApH4gEVQcgqw9cn0/giphy.gif" height="30" width="30" align="center" /> Paris, France &nbsp; | <img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" height="30" width="30" align="center" /> Electrical Engineer &nbsp; | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZvNnB6b3pmOTBidmFpMXJsMTl0bTlpdDA2ZmdhdmVxMGRjNndqMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" height="30" width="30" align="center" /> Software Developer
-
-![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![Vim](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim&logoColor=019733)
-![Godot](https://img.shields.io/badge/-Godot-000000?style=flat-square&logo=godotengine&logoColor=478CBF)
+<p>
+  <img src="https://media.giphy.com/media/NX3GQXkss6J9gfkqLp/giphy.gif" width="24" align="center" /> Electronics Engineer &nbsp; | 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZvNnB6b3pmOTBidmFpMXJsMTl0bTlpdDA2ZmdhdmVxMGRjNndqMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width="24" align="center" /> Software Developer &nbsp; |
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTZ0cjMzMGNmcjRlY3lqb3JmNmxpNjZidWw1NmR6YmloYmppdjBxbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sVzpTO45RCoMB1HRnt/giphy.gif" width="24" align="center" /> Game Designer
+</p>
 
 > Love tinkering with hardware and obsessed with writing clean code.
 > Interested in embedded systems, game design, AI/ML, and AR/VR.
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFlbnBjcGw2OXpoN3o0b3VtOXV2dDNvcTkwZTJkeGlzejRnNWVvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPKw8QCM4SR53s42xN/giphy.gif" height="30" width="30" align="center" /> Contact
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 
-<a href="https://linkedin.com/in/attaulhaleem"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" align="center"/></a>
-<a href="mailto:haleem.attaul@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" align="center"/></a>
+<h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjhlMWwxb2l5a2djcWhka2I2ZzZwdzN4bDRzemVldWZvMHZicmw3aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xDRd6KNG0RogXmzFUl/giphy.gif" width="30" align="center" />
+  About Me
+</h2>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjhlMWwxb2l5a2djcWhka2I2ZzZwdzN4bDRzemVldWZvMHZicmw3aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xDRd6KNG0RogXmzFUl/giphy.gif" height="30" width="30" align="center" /> Languages
+<p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlOXcwd2ltNTA0Mmp4aG1hNWVuN3B5NHZkdWIzZXlsODVha281aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0tApH4gEVQcgqw9cn0/giphy.gif" width="24" align="center" /> Paris, France
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python Icon" width="40" height="40"/>&nbsp;
-</div>
+I'm currently a graduate student at IP Paris majoring in Data Analytics and Pattern Recognition. You can check out my projects and writings at [my website](https://attaul.com).
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Zlczg1a2szNmRjcmgwejdzeXlpd3FuajhiMTVoN3RicDMybnMybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" height="30" width="30" align="center" /> Tools
-  
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi Icon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot Icon" width="40" height="40"/>&nbsp;
-</div>
+When I'm not working, you can usually find me lost in a great film, planning my next travel adventure, or enjoying a quiet game of chess.
+</p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJvODNmaWR4bDE3Z290dDR3bHp0NWg4bGd1eGxpY3o0MHg2cHR6diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" height="30" width="30" align="center" /> Stats
+<h2>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFlbnBjcGw2OXpoN3o0b3VtOXV2dDNvcTkwZTJkeGlzejRnNWVvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPKw8QCM4SR53s42xN/giphy.gif" width="30" align="center" />
+  Contact
+</h2>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@attaul.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/attaulhaleem)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Attaulhaleem)
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://dustypizza.itch.io/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1113896603418366023)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01bfb4c00ec17cdcfb?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](https://www.fiverr.com/attaul_haleem)
+
+<h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJvODNmaWR4bDE3Z290dDR3bHp0NWg4bGd1eGxpY3o0MHg2cHR6diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width="30" align="center" />
+  Stats
+</h2>
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Attaulhaleem&theme=dark&background=000000" title="Github Streak" alt="Github Streak">
