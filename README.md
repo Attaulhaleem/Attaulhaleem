@@ -31,7 +31,7 @@
 <p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlOXcwd2ltNTA0Mmp4aG1hNWVuN3B5NHZkdWIzZXlsODVha281aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0tApH4gEVQcgqw9cn0/giphy.gif" width="24" align="center" /> Paris, France
 
-I'm currently a graduate student at IP Paris majoring in Data Analytics and Pattern Recognition. You can check out my projects and writings at [my website](https://attaul.com).
+I'm currently a graduate student at IP Paris majoring in Data Analytics and Pattern Recognition. You can check out my projects and writings at <a href="https://attaul.com" target="_blank" rel="noopener noreferrer">my website</a>.
 
 When I'm not working, you can usually find me lost in a great film, planning my next travel adventure, or enjoying a quiet game of chess.
 </p>
