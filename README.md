@@ -62,5 +62,5 @@ When I'm not working, you can usually find me lost in a great film, planning my 
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Attaulhaleem&theme=dark&background=000000" title="Github Streak" alt="Github Streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Attaulhaleem&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
 </div>
-
