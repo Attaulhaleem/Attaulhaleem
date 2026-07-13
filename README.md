@@ -53,6 +53,7 @@ When I'm not working, you can usually find me lost in a great film, planning my 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1113896603418366023)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01bfb4c00ec17cdcfb?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](https://www.fiverr.com/attaul_haleem)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/atta_haleem)
 
 <h2>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJvODNmaWR4bDE3Z290dDR3bHp0NWg4bGd1eGxpY3o0MHg2cHR6diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width="30" align="center" />
