@@ -41,6 +41,20 @@ When I'm not working, you can usually find me lost in a great film, planning my 
 | 🛠️&nbsp;Tools | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#) |
 
 <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3kzaGdwNHlianJncGNvcGdld3I3c2lmbDhwZGQ2dnZubXlscW5rdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oxdNN8gZInb3flxlxG/giphy.gif" width="30" align="center" />
+  Contact
+</h2>
+
+![Website](https://img.shields.io/badge/Website-0a0a0a?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiBmaWxsPSIjZmZmZmZmIj4gCiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCw2MDApIHNjYWxlKDAuMSwtMC4xKSIgc3Ryb2tlPSJub25lIj4gCiAgICA8cGF0aCBkPSJNMTI5NiA1MzcyIGMtMiAtNCAtOTkgLTM2MSAtMjE2IC03OTIgLTExNiAtNDMyIC0yMjMgLTgyOCAtMjM3IC04ODAgLTE0IC01MiAtMjggLTEwMCAtMzAgLTEwNyAtNCAtMTAgMzAgLTEzIDE1NiAtMTMgbDE2MSAwIDcgMjggYzQgMTUgMjcgMTE1IDUzIDIyMiBsNDYgMTk1IDI2MiAzIDI2MiAyIDcgLTI3IGMzIC0xNiAyNyAtMTE2IDUyIC0yMjMgbDQ2IC0xOTUgMTY0IC0zIGMxMjkgLTIgMTYyIDAgMTU4IDEwIC02IDE3IC00NjcgMTc3NCAtNDY3IDE3ODIgMCA5IC00MTggNyAtNDI0IC0yeiBtMjIyIC0yODkgYzkgLTcwIDE1NSAtNzEyIDE3OCAtNzg1IDUgLTE3IC05IC0xOCAtMTk1IC0xOCAtMTExIDAgLTIwMSAyIC0yMDEgNCAwIDMgMzggMTY1IDg1IDM2MiA0NiAxOTYgOTAgMzk0IDk2IDQ0MCA3IDQ2IDE1IDg0IDE4IDg0IDQgMCAxMiAtMzkgMTkgLTg3eiIvPiAKICAgIDxwYXRoIGQ9Ik0zODUwIDUyMzUgbDAgLTE0NSAyNDUgMCAyNDUgMCAwIC03NTUgMCAtNzU1IDE2MCAwIDE2MCAwIDAgNzU1IDAgNzU1IDI0NSAwIDI0NSAwIDAgMTQ1IDAgMTQ1IC02NTAgMCAtNjUwIDAgMCAtMTQ1eiIvPiAKICAgIDxwYXRoIGQ9Ik04NTAgMjIzNSBsMCAtMTQ1IDI0NSAwIDI0NSAwIDAgLTc1NSAwIC03NTUgMTYwIDAgMTYwIDAgMCA3NTUgMCA3NTUgMjQ1IDAgMjQ1IDAgMCAxNDUgMCAxNDUgLTY1MCAwIC02NTAgMCAwIC0xNDV6Ii8+IAogICAgPHBhdGggZD0iTTQyOTYgMjM3MiBjLTIgLTQgLTExMSAtNDAxIC0yNDAgLTg4MiAtMTMwIC00ODEgLTIzOSAtODgzIC0yNDIgLTg5MiAtNSAtMTcgNyAtMTggMTU1IC0xOCBsMTYxIDAgNyAyNyBjNCAxNiAyNyAxMTYgNTMgMjIzIGw0NiAxOTUgMjYyIDMgMjYyIDIgNSAtMjIgYzMgLTEzIDI3IC0xMTMgNTMgLTIyMyBsNDggLTIwMCAxNjMgLTMgYzEyOSAtMiAxNjIgMCAxNTggMTAgLTYgMTcgLTQ2NyAxNzc0IC00NjcgMTc4MiAwIDkgLTQxOCA3IC00MjQgLTJ6IG0yMjEgLTI4NCBjOSAtNjYgMTU3IC03MjEgMTc5IC03OTAgNSAtMTcgLTkgLTE4IC0xOTUgLTE4IC0xMTEgMCAtMjAxIDIgLTIwMSA0IDAgMyAzNiAxNTcgODEgMzQzIDQ0IDE4NiA4OCAzODQgOTcgNDQxIDkgNTYgMTkgMTAyIDIyIDEwMiAzIDAgMTEgLTM3IDE3IC04MnoiLz4gCiAgPC9nPiAKPC9zdmc+Cg==&logoColor=ffffff)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/attaulhaleem)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Attaulhaleem)
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://dustypizza.itch.io/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1113896603418366023)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01bfb4c00ec17cdcfb?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](https://www.fiverr.com/attaul_haleem)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/attaul_haleem)
+
+<h2>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJvODNmaWR4bDE3Z290dDR3bHp0NWg4bGd1eGxpY3o0MHg2cHR6diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width="30" align="center" />
   Stats
 </h2>
